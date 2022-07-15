@@ -1,0 +1,4 @@
+echo "hello"
+cat input.txt
+cat input.txt | sort
+cat input.txt | sort > output.txt
